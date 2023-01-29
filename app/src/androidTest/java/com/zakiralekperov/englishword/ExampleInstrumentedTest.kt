@@ -1,4 +1,4 @@
-package com.example.englishword
+package com.zakiralekperov.englishword
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
